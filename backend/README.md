@@ -111,8 +111,8 @@ spam-detection-backend/
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/spam-detection-backend.git
-cd spam-detection-backend
+
+git clone url
 ```
 
 ### Step 2: Create Virtual Environment
